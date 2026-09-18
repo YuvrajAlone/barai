@@ -1,5 +1,5 @@
 const characters = [
-  { id: "Barai", name: "Barai", tag: "The Juari", image: "public/barai.jpeg" },
+  { id: "Barai", name: "Barai", tag: "The Juari", image: "public/Barai.jpeg" },
 ];
 
 const characterScreen = document.querySelector("#characterScreen");
