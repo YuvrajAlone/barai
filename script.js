@@ -29,7 +29,7 @@ const physics = {
 
 let selectedCharacter = characters[0];
 let selectedImage = new Image();
-const crashSound = new Audio("public/barai.m4a");
+const crashSound = new Audio("public/Barai.m4a");
 crashSound.preload = "auto";
 crashSound.volume = 0.78;
 let phase = "menu";
